@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350710308359",
+    "firebase_url": "https://deeplinkdemo-7e4d8.firebaseio.com",
+    "project_id": "deeplinkdemo-7e4d8",
+    "storage_bucket": "deeplinkdemo-7e4d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350710308359:android:021fa747c54e8388c094a2",
+        "android_client_info": {
+          "package_name": "com.e.deeplinkdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350710308359-2qpvb2r0c4f5oqut2f2he799atn0d7m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.deeplinkdemo",
+            "certificate_hash": "0ef4c3100e448efaedd8e2c6d1bd3d5a0478ac63"
+          }
+        },
+        {
+          "client_id": "350710308359-etapadalkig7cq8vt7mhcfougc50561k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXv_ZrOTCI4jEL_GPD8mTLC7rZxOJLGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350710308359-etapadalkig7cq8vt7mhcfougc50561k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
